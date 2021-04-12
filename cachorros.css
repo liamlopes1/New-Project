@@ -1,0 +1,60 @@
+h2 {
+        color:rgb(26, 20, 83);
+        font-family: lobster;
+}
+p {
+        font-family: "Noto Sans JP";
+}
+h1 {
+        font-family: "New Tegomin";
+        font-size: 20px;
+        margin-top: 20px;
+        margin-left: -1095px;
+        margin-right: 0px;
+        padding-bottom: 10px;
+}   
+body {
+    background-color:rgb(231, 238, 241) ;
+    background-image: url(#);
+    /*https://i.postimg.cc/X7HJt5py/0c455c53-93ea-4307-972f-efc8c96b2e68.jpg */
+}
+.thick-black-line {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 350px;
+}
+.top-of-the-page {
+    background-color: rgb(135, 192, 214);
+    text-align:center ;
+    margin: -1%;
+    margin-top: -25px;
+    padding: 15px;
+}
+.dog-pics {
+    border-color:black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 320px;
+}
+.top-picture {
+    width: 150px;
+    border-radius: 50%; 
+    border-style: solid; 
+    margin-left: -1100px;
+    margin-top: -60px;
+    margin-bottom: -30px;
+
+}
+.top-social {
+    margin-top: 10px;
+    margin-left: 1180px;
+}
+.top-links {
+    margin-top: 50px;
+}
+.top-picture-name {
+    margin-top: 90px;
+}
